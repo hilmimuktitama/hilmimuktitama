@@ -13,14 +13,17 @@ I turn cross-squad delivery complexity into source-backed plans, release gates, 
 - AI automation readiness across chatbot service migration, knowledge-source operations, reporting, and AI agent rollout foundations.
 - Evidence-first program systems for source-backed tracking, runbooks, risk registers, release checklists, and safe public artifacts.
 
-## Featured Work
+## Flagship: Truth Tools
 
-| Project | What it shows | Link |
-| --- | --- | --- |
-| Capture Truth | Evidence intake before analysis, with source snapshots, gaps, conflicts, and repo-safe renders. | [Repository](https://github.com/hilmimuktitama/capture-truth) |
-| Program Truth | Reconstructing execution truth across Jira, Confluence, Notion, docs, and meeting notes. | [Repository](https://github.com/hilmimuktitama/program-truth) |
-| Timeline Truth | Compiling rough planning inputs into reviewable timelines without inventing missing dates, owners, or dependencies. | [Repository](https://github.com/hilmimuktitama/timeline-truth) |
-| Truth Tools | A unified CLI and MCP-oriented entrypoint for capture, program, and timeline workflows. | [Repository](https://github.com/hilmimuktitama/truth-tools) |
+An evidence-first reliability toolkit for turning messy delivery inputs into reviewable, source-backed outputs. It demonstrates how to make uncertainty visible, preserve source context, and avoid inventing missing facts.
+
+It brings together three components:
+
+- **Capture Truth** — evidence intake with source snapshots, gaps, conflicts, and repo-safe renders. [Repository](https://github.com/hilmimuktitama/capture-truth)
+- **Program Truth** — reconstructing execution truth across delivery sources. [Repository](https://github.com/hilmimuktitama/program-truth)
+- **Timeline Truth** — compiling rough planning inputs without inventing missing dates, owners, or dependencies. [Repository](https://github.com/hilmimuktitama/timeline-truth)
+
+[Truth Tools repository](https://github.com/hilmimuktitama/truth-tools) | [Live demo](https://hilmimuktitama.github.io/truth-tools/) | [Portfolio case study](https://hilmimuktitama.github.io/work/truth-tools/)
 
 ## How I Work
 
