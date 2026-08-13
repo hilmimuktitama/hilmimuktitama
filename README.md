@@ -17,11 +17,11 @@ I turn cross-squad delivery complexity into source-backed plans, release gates, 
 
 **Suite-level framing:** Truth Tools is an evidence-first technical-program reliability toolkit combining provenance-preserving evidence intake, defensible timeline compilation, agent-guided status synthesis, and deterministic pre-publication review.
 
-Conceptual flow: an operator/agent assembles evidence and planning inputs into a canonical `StatusArtifact`; **Truth Tools** is the deterministic review gate for artifact quality and explicit health-consistency review. It does not independently determine program health.
+Conceptual flow: **Program Truth** emits the canonical `StatusArtifact` v2 directly from evidence and planning inputs; **Truth Tools** is the deterministic review gate for artifact quality and explicit health-consistency review. It does not independently determine program health.
 
 It brings together three components:
 
-- **Capture Truth** — provenance-preserving evidence intake with candidate derivation and explicit portable-review gates. Source provenance, unreviewed candidates, and repo-safe renders remain visible. [Repository](https://github.com/hilmimuktitama/capture-truth)
+- **Capture Truth** — provenance-preserving evidence intake with candidate derivation. Source provenance, unreviewed candidates, and explicit portable-review gates remain visible. [Repository](https://github.com/hilmimuktitama/capture-truth)
 - **Program Truth** — explicit assessment and evidence synthesis across delivery sources, with no bundled connectors. [Repository](https://github.com/hilmimuktitama/program-truth)
 - **Timeline Truth** — locator-only compilation for canonical handoff and schedule-drift visibility, without inventing missing dates, owners, or dependencies. [Repository](https://github.com/hilmimuktitama/timeline-truth)
 
